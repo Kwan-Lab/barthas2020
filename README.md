@@ -2,7 +2,7 @@ Code and data associated with the paper, Barthas F, Hu MY, Siniscalchi MJ, Ali F
 
 ———
 First steps:
-1) Extract the data from the zip file in /data zip
-2) Change the paths in flex_setPathList.m to reflect the local directory structure.
+1) Extract the data from the zip files in /data zip
+2) Change the paths in sucrose_setPathList.m to reflect the local directory structure.
 
 See "directory structure.pdf" for further instructions.
